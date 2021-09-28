@@ -1,5 +1,9 @@
 # Welcome & Introduction
 
+I've just touched that file
+
+You make your Changes - all of them. 
+
 ```{r}
 knitr::include_url("../slides/slides_introduction.html")
 ```
